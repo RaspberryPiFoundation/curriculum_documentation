@@ -1,1 +1,6 @@
-# curriculum_documentation
+## Curriculum Documentation
+
++ [Contributing to our curriculum](contributing.md)
+  + [Amending Projects](amending.md)
+  + [Writing new projects](projects.md)
+  + [Translating projects](translating.md)
