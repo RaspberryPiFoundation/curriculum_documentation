@@ -4,3 +4,6 @@
   + [Amending Projects](amending.md)
   + [Writing new projects](projects.md)
   + [Translating projects](translating.md)
+  + [Project Guidelines](project-guidelines.md)
+
+ 
