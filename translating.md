@@ -9,13 +9,15 @@ If you're translating a project and need additional support, you can email proje
 
 __To contribute a project to our curriculum, you'll need your own copy of the projects. There are instructions on how to do this in the main [contributing](contributing.md) notes.__
 
-## 1. Create a copy of the projects
+## 1. Create a copy of the project(s)
 
 ...
 
-## 2. Translate the project!
+## 2. Translate the project(s)!
 
 ...
+
+scratch block translation tool.
 
 There's also a guide on [writing a project](projects.md).
 

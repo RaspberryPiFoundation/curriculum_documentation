@@ -13,6 +13,8 @@ __To contribute a project to our curriculum, you'll need your own copy of the pr
 
 + In the projects repository, find the folder called 'Project Template'.
 
+![screenshot](/images/projects/folder.png)
+
 + Copy and paste this folder, and rename the copied folder with the name of your project.
 
 + You should see 2 files with `.md` extensions: 
@@ -20,7 +22,9 @@ __To contribute a project to our curriculum, you'll need your own copy of the pr
 	+ `Project Template.md` - the file containing the project instructions;
 	+ `Project Template - notes.md` - the file containing the club leader notes.
 
-	These files contain 'markdown', which is used to generate projects on the Code Club website. Rename these 2 files with the name of your project.
+![screenshot](/images/projects/md.png)
+
+These files contain 'markdown', which is used to generate projects on the Code Club website. Rename these 2 files with the name of your project.
 
 ## 2. Write your project.
 
@@ -28,7 +32,7 @@ Open the `[project name].md` file in a text editor. You can edit this document b
 
 ### Activities
 
-You should break your instructions down into separate activities. Each activity should have an 'activity' heading.
+You should break your instructions down into separate activities. Each activity should have an 'activity' heading, which can be added by using the following markdown:
 
 `#Step 1: Step name goes here {.activity}`
 
@@ -61,13 +65,15 @@ You can add text in __bold__ by placing two underscores or stars around the text
 
 ### Code
 
-You can add some code to your notes ``like this``, by adding backticks (`` ` ``) around the text.
+You can add some code to your notes `like this`, by adding backticks (`` ` ``) around the text.
 
 `` here is some code: `move (10) steps` ``
 
-For Scratch code, you can also add optional tags to the code to change the colour to match the scratch block colour (for example `{.blockdata}` for variables). There are some examples of this in the Scratch project template.
+You can also format Scratch code, so that the colour matches the associated Scratch block colour (for example `{.blockdata}` for variables). There are some examples of this in the Scratch project template.
 
 `` here is a `score` {.blockdata} variable ``
+
+![screenshot](/images/projects/scratch-code.png)
 
 ### Images
 
@@ -91,17 +97,23 @@ The markdown for adding in a test point is:
 
 `## Test your project {.flag}`
 
+![screenshot](/images/projects/test.png)
+
 ### Saving
 
 You should also regularly remind children to save their work, by using this markdown:
 
 `## Save your project {.save}`
 
+![screenshot](/images/projects/save.png)
+
 ### Challenges
 
 You should add at least 1 challenge, to allow children to apply what they've during the project. You can ask children to fix a problem or improve or adapt their project in some way. The markdown for adding a challenge is:
 
 `## Challenge: Challenge name {.challenge}`
+
+![screenshot](/images/projects/challenge.png)
 
 ### Scratch Code Blocks
 
@@ -123,7 +135,7 @@ You can [test](http://scratchblocks.codeclub.org.uk) your Scratch code, and ther
 
 ### Embedded Scratch Projects
 
-For Scratch projects, you can also add an embedded version of the final project, so that children can see what they are working towards. Don't worry, children won't be able to see your code! This is done by adding the following HMTL after the introduction:
+For Scratch projects, you can also add an embedded version of the final project, so that children can see what they are working towards. Don't worry, children won't be able to see the code! This is done by adding the following HMTL after the introduction:
 
 ```
 <div class="scratch-preview">
@@ -134,7 +146,11 @@ For Scratch projects, you can also add an embedded version of the final project,
 
 Simply replace the URL with the URL of your finished project, and remember to include a static screenshot image for the PDF version of the project notes.
 
+![screenshot](/images/projects/embed.png)
+
 ## 3. Notes for Club Leaders
+
+Each project should have an associated 'notes' markdown file, giving the volunteer useful information for using the project with their Code Club.
 
 The project notes template can simply be modified for your project, and contains the following sections:
 
@@ -175,7 +191,7 @@ You can also add answers to common questions here. This will help club leaders w
 
 + You should be able to see a file with a `.manifest` extension in the same folder (or the folder above) the folder containing your new project.
 
-+ Add your project to the manifest. You can do this by copying and pasting an existing project entry, modifying the parameters. Here's an example:
++ Add your project to the 'additional projects' manifest. You can do this by copying and pasting an existing project entry, modifying the parameters. Here's an example:
 
 ```
         {
@@ -185,6 +201,8 @@ You can also add answers to common questions here. This will help club leaders w
             "note":     "Project Template/Project Template - notes.md"
         }
 ```
+
+Make aure that there is a comma between each project entry (after the `}`) but not after the final project!
 
 ## 5. You're done!
 

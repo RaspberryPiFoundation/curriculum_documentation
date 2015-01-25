@@ -11,11 +11,15 @@ __To contribute a project to our curriculum, you'll need your own copy of the pr
 
 ## 1. Edit a File
 
-+ In the project repository, find the file you want to edit.
++ In the project repository, find the file you want to edit. Projects are separated by language.
 
 + Click 'edit'.
 
-+ Make any changes. If you need additional help, there's also a guide to [writing a project](projects.md).
+![screenshot](images/amending/edit.png)
+
++ Make any changes. If you need additional help, there's a guide to [writing a project](projects.md). You can also click 'preview' to see your changes.
+
+![screenshot](images/amending/preview.png)
 
 ## 2. You're done!
 
