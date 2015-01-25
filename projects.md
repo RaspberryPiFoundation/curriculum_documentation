@@ -131,6 +131,10 @@ blocks
 	end
 ```
 
+The code above produces the following image:
+
+![screenshot](/images/projects/scratch-output.png)
+
 You can [test](http://scratchblocks.codeclub.org.uk) your Scratch code, and there is a [guide](http://wiki.scratch.mit.edu/wiki/Block_Plugin/Syntax) to adding Scratch blocks to your project notes.
 
 ### Embedded Scratch Projects
