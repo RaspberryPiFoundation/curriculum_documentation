@@ -143,16 +143,14 @@ For Scratch projects, you can also add an embedded version of the final project,
 
 ```
 <div class="scratch-preview">
-	<iframe allowtransparency="true" width="485" height="402" src="http://scratch.mit.edu/projects/embed/26762091/?autostart=true" frameborder="0"></iframe>
+	<iframe allowtransparency="true" width="485" height="402" src="http://scratch.mit.edu/projects/embed/32722912/?autostart=true" frameborder="0"></iframe>
 	<img src="project-final.png">
 </div>
 ```
 
 Simply replace the URL with the URL of your finished project, and remember to include a static screenshot image for the PDF version of the project notes.
 
-Here's an example of an embedded project:
-
-<iframe allowtransparency="true" width="485" height="402" src="http://scratch.mit.edu/projects/embed/26762091/?autostart=true" frameborder="0"></iframe>
+![screenshot](/images/projects/embed.png)
 
 ## 3. Notes for Club Leaders
 
