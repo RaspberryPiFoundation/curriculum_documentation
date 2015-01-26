@@ -9,25 +9,65 @@ If you're translating a project and need additional support, you can email proje
 
 __To contribute a project to our curriculum, you'll need your own copy of the projects. There are instructions on how to do this in the main [contributing](contributing.md) notes.__
 
+NOTE: you may only need to carry out some of these steps if no previous translations have been made for your language.
+
 ## 1. Create a copy of the project(s)
 
-...
++ Make a copy of the folder called 'en-GB', containing the English language projects.
++ Rename this copied folder with the appropriate [language/country code](http://www.lingoes.net/en/translator/langcode.htm), for example 'es-ES' for Spanish. You can skip this step if a folder with this name already exists.
 
 ## 2. Translate the project(s)!
 
-...
+There's a guide to [writing a project](projects.md), which explains how to create each of the elements in the project instructions.
 
-scratch block translation tool.
-
-There's also a guide on [writing a project](projects.md).
+You can also generate [translated Scratch code]() from the English projects.
 
 ## 3. Update the manifest
 
-...
++ Find the `.manifest` file for the project(s) you've translated. Rename the 'en-GB' portion of the filename with your language/country code.
+
+![screenshot](images/translating/manifest.png)
+
++ If the project and/or folder names have also been translated, open the manifest file and update this information. Here's an example:
+
+```
+        {
+            "filename": "01 Félix y Herbert/félix_y_herbert.md",
+            "number": 1
+        }
+```
+
++ You should also make sure that the correct language is specified at the top of the file, and you can also provide translated titles and descriptions.
+
+```
+    "id": "scratch",
+    "title": "Iniciación a Scratch",
+    "description": "Scratch es una forma sencilla y divertida de programar arrastrando bloques y colocándolos juntos",
+    "language": "es-ES",
+    "number": 1,
+```
 
 ## 4. (Optional) Add a `.language` file
 
-...
+You can also provide translated text for various website links and project instructions. Do do this, you'll need to clone the [lesson_format](https://github.com/CodeClub/lesson_format) repository. This repository is used to build the projects website from Scratch, HTML & CSS and Python repositories. There are instructions on how to do this in the main [contributing](contributing.md) notes.
+
++ In the 'lesson_format' repository, go to the 'assets/languages' folder, and find the file called 'en-GB.language.sample':
+
+![screenshot](images/translating/sample.png)
+
++ If a `.language` file doesn't already exist for your language, copy this file and rename it with your language/country code. You should also remove the `.sample` portion of the filename.
+
++ Open the copied file in a text editor and provide the various translations:
+
+```
+	"code": "Language code e.g. en-GB",
+	"name": "Language name e.g. English",
+	"translations": {
+		"Download PDF": "Your translation here!",
+		"Download Project Materials": "Your translation here!",
+		"Extras": "Your translation here!",
+		...
+```
 
 ## 5. You're done!
 
