@@ -51,7 +51,7 @@ You can also generate [translated Scratch code]() from the English projects.
 
 You can also provide translated text for various website links and project instructions. Do do this, you'll need to clone the [lesson_format](https://github.com/CodeClub/lesson_format) repository. This repository is used to build the projects website from Scratch, HTML & CSS and Python repositories. There are instructions on how to do this in the main [contributing](contributing.md) notes.
 
-+ In the 'lesson_format' repository, go to the 'assets/languages' folder, and find the file called 'en-GB.language.sample':
++ In the 'lesson_format' repository, go to the 'assets/languages' folder, and find the file called `en-GB.language.sample`:
 
 ![screenshot](images/translating/sample.png)
 
