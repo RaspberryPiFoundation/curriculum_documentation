@@ -120,7 +120,7 @@ You should add at least 1 challenge, to allow children to apply what they've dur
 For Scratch projects, code blocks should be contained within 3 backticks, for example:
 
 ```
-blocks
+```blocks
 	when flag clicked
 	point in direction (120 v)
 	set pen color to [#FF0000]
@@ -128,7 +128,7 @@ blocks
 	forever
 		move (1) steps
 		if on edge, bounce
-	end
+	end```
 ```
 
 The code above produces the following image:
