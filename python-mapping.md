@@ -1,6 +1,7 @@
 ##Python Projects Skills Mapping
 This table shows the skills covered in each Python project. The star (*) denotes the project in which a skill is first introduced.
 
+###Python 1
 | ↓ Project  /  Skill → | Sequential statements  | Variables  | Selection | For loops |
 |:--|:-:|:-:|:-:|:-:|
 | ASCII Art             |✓*| | | |
@@ -9,7 +10,10 @@ This table shows the skills covered in each Python project. The star (*) denotes
 | Turtle Power          |✓|✓| |✓*|
 | Gameshow              |✓|✓|✓|✓|
 | Compliment Generator  |✓|✓|✓| |
-||||||
+
+###Python 2
+| ↓ Project  /  Skill → | Sequential statements  | Variables  | Selection | For loops |
+|:--|:-:|:-:|:-:|:-:|
 | Secret Messages       |✓|✓|✓|✓|
 | Teaching Turtles      |✓|✓| |✓|
 | Text-speak Converter  |✓|✓|✓| |
