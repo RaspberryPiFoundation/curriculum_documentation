@@ -6,4 +6,5 @@
   + [Translating projects](translating.md)
   + [Project Guidelines](project-guidelines.md)
 
- 
++ Curriculum / skills mapping:
+  + [Python](python-mapping.md)
