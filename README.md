@@ -7,5 +7,5 @@
   + [Project Guidelines](project-guidelines.md)
 
 + Project skills mapping:
-+ + [Scratch](scratch-mapping.md)
+  + [Scratch](scratch-mapping.md)
   + [Python](python-mapping.md)
