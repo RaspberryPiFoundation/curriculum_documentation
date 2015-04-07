@@ -3,11 +3,11 @@
 
 ## 0. Introduction
 
-This guide explains how to make small amendments to a project. There are more notes for making bigger contributions, such as [adding new projects](PROJECTS.md) or [translating existing projects](TRANSLATING.md)
+This guide explains how to make small amendments to a project. There are more notes for making bigger contributions, such as [adding new projects](projects.md) or [translating existing projects](translating.md)
 
 If you're amending a project and need additional support, you can email projects@codeclub.org.uk.
 
-__To contribute a project to our curriculum, you'll need your own copy of the projects. There are instructions on how to do this in the main [contributing](CONTRIBUTING.md) notes.__
+__To contribute a project to our curriculum, you'll need your own copy of the projects. There are instructions on how to do this in the main [contributing](contributing.md) notes.__
 
 ## 1. Edit a File
 
