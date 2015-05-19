@@ -20,7 +20,7 @@ NOTE: you may only need to carry out some of these steps if no previous translat
 
 There's a guide to [writing a project](projects.md), which explains how to create each of the elements in the project instructions.
 
-You can also generate [translated Scratch code]() from the English projects.
+You can also generate [translated Scratch code](http://scratchblocks.codeclub.org.uk/translator/) from the English projects.
 
 ## 3. Update the manifest
 
