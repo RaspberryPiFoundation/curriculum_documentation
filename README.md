@@ -13,4 +13,5 @@
 
 + [Curriculum skills mapping](mapintro.md):
   + [Scratch](scratch-mapping.md)
+  + HTML & CSS
   + [Python](python-mapping.md)
