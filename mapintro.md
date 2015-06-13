@@ -16,6 +16,6 @@ Each module has opportunities to develop the following skills:
 + Reflecting and improving.
 
 ####Programming concepts:
-+ [Scratch]
++ [Scratch](scratch-mapping.md)
 + [HTML & CSS]
-+ [Python]
++ [Python](python-mapping.md)
