@@ -11,6 +11,6 @@
   + [Translating projects](translating.md)
   + [Project Guidelines](project-guidelines.md)
 
-+ [Project skills mapping](mapintro.md):
++ [Curriculum skills mapping](mapintro.md):
   + [Scratch](scratch-mapping.md)
   + [Python](python-mapping.md)
