@@ -1,6 +1,10 @@
 ### Our Curriculum
 
+...
+
 ### Our Projects
+
+...
 
 ### Course Guidance
   
