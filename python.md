@@ -2,7 +2,11 @@
 
 ...
 
-### Using Python
+### Using Trinket
+
+...
+
+### Working Offline
 
 ...
 
