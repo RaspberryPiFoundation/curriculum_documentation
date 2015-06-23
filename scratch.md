@@ -2,7 +2,7 @@
 
 ...
 
-### Installing Scratch
+### Using Scratch
 
 ...
 
