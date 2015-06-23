@@ -17,7 +17,7 @@ Each module has opportunities to develop the following skills:
 + Communication, collaboration and sharing;
 + Reflecting and improving.
 
-####Programming concepts:
+####Programming skills mapping:
 + [Scratch](scratch-mapping.md)
 + [HTML & CSS]
 + [Python](python-mapping.md)
