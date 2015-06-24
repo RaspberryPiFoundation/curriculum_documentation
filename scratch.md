@@ -2,6 +2,10 @@
 
 ...
 
+### Coding in Scratch
+
+...
+
 ### Using Scratch
 
 ...
