@@ -2,6 +2,10 @@
 
 ...
 
+### Using Scratch
+
+...
+
 ### Coding in Scratch
 
 ##### Sequencing
@@ -29,10 +33,6 @@
 ...
 
 ##### Custom Blocks
-
-...
-
-### Using Scratch
 
 ...
 
