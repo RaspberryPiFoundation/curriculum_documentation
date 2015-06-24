@@ -2,6 +2,10 @@
 
 ...
 
+### Coding in Python
+
+...
+
 ### Using Trinket
 
 ...
