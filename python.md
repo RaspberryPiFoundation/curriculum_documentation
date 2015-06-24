@@ -2,15 +2,15 @@
 
 ...
 
-### Coding in Python
-
-...
-
 ### Using Trinket
 
 ...
 
 ### Working Offline
+
+...
+
+### Coding in Python
 
 ...
 
