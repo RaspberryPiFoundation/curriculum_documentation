@@ -13,7 +13,7 @@ This is a set of guidelines for writing Code Club projects.
 ## Style
 
 + Projects should be written in a lighthearted, casual style;
-+ Reinforce the idea that coding is an ability, not a gift. It comes from hard work, not from talent;
++ Reinforce the idea that coding is an ability, not a gift. It comes from hard work, not from talent.
 
 ## Language Requirements
 
