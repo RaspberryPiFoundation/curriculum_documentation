@@ -2,7 +2,7 @@
 
 Scratch is a graphical programming language, developed by the Lifelong Kindergarten group at the Massachusetts Institute of Technology. Children can drag and combine code blocks to make a range of programs, including animations, stories, musical instruments and games. It’s a bit like the programming equivalent of Lego!
 
-![scratch editor](images/scratch/scratch.png)
+![scratch editor](images/scratch/scratch-editor.png)
 
 We recommend reading the [Getting Started with Scratch guide](http://scratch.mit.edu/scratchr2/static/__1371843055__/pdfs/help/ScratchGetStarted_beta_draft_Jan2013.pdf) before you start, which gives a good introduction on Scratch features and putting together simple programs.
 
