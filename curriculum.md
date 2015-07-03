@@ -2,6 +2,8 @@
 
 ...
 
+[Curriculum skills mapping](mapintro.md)
+
 ### Our Projects
 
 Our projects can be found at [codeclub.org.uk/projects](http://codeclub.org.uk/projects). Our core curriculum currently contains 1 years’ (6 terms’) worth of projects, teaching Scratch, HTML & CSS and Python. You can find more information on these languages below. We would recommend starting with our Scratch projects if your children haven’t programmed before, but if you’d prefer to start with HTML or Python projects then that’s fine by us!
