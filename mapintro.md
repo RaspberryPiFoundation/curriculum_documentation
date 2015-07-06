@@ -19,5 +19,5 @@ Each module has opportunities to develop the following skills:
 
 ####Programming skills mapping:
 + [Scratch](scratch-mapping.md)
-+ [HTML & CSS]
++ [HTML & CSS](html-mapping.md)
 + [Python](python-mapping.md)
