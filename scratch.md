@@ -4,7 +4,7 @@ Scratch is a graphical programming language, developed by the Lifelong Kindergar
 
 ![scratch editor](images/scratch/scratch-editor.png)
 
-We recommend reading the [Getting Started with Scratch guide](http://scratch.mit.edu/scratchr2/static/__1371843055__/pdfs/help/ScratchGetStarted_beta_draft_Jan2013.pdf) before you start, which gives a good introduction on Scratch features and putting together simple programs.
+We recommend reading the [Getting Started with Scratch guide](http://scratch.mit.edu/scratchr2/static/__1371843055__/pdfs/help/ScratchGetStarted_beta_draft_Jan2013.pdf) before you start, which gives a good introduction on Scratch features and putting together simple programs. The first Scratch project (called [Rock Band](http://jumpto.cc/rockband)) explains the creating, saving and running of a simple Scratch program in more detail.
 
 ### Using Scratch
 
