@@ -63,6 +63,3 @@ The easiest way to view changes is to open your files in a browser _and_ a text 
 
 ![screenshot](images/html/offline-edit.png)
 
-### Further Resources
-
-...
