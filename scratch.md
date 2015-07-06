@@ -16,4 +16,3 @@ Scratch can either be used [online](http://jumpto.cc/scr-on), or [downloaded](ht
 
 Sometimes our Scratch projects make reference to using 'Scratch Cards', which can be downloaded and printed for children to use. Scratch cards help with common programming tasks, and we recommend printing these out, and having them available to children as they work on their projects. It might be a good idea to laminate the Scratch Cards, so that they can be reused. We have also produced some additional cards, which have been added to the downloadable project materials of the relevant projects.
 
-...
