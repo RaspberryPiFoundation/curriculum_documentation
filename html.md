@@ -28,7 +28,7 @@ When completing our HTML & CSS projects, we recommend using [Trinket](https://tr
 + Children can save their code online, allowing them to access their webpages both within their club and at home;
 + Children can share their webpages with others, and can remix webpages shared with them.
 
-The first HTML & CSS project (called [Happy Birthday](http://jumpto.cc/birthday)) explains the creating, saving and running of a simple Scratch program in more detail.
+The first HTML & CSS project (called [Happy Birthday](http://jumpto.cc/birthday)) explains the creating, saving and viewing of a simple webpage in more detail.
 
 ### Working Offline
 
