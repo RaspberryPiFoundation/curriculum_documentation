@@ -1,24 +1,26 @@
 ### What is HTML?
 
-...
+HyperText Markup Language (HTML) is a language for describing and structuring web pages. HTML documents can include things like text, images, sound and video, using ‘tags’ to organise the content. Here’s a very simple HTML example, including a heading (`<h1>`), a paragraph of text (`<p>`) and an image (`<img>`):
 
-### Coding in HTML
-
-...
+```
+<html>
+  <h1>Here is my cat:</h1>
+  <img src="cat.jpg">
+  <p>He's called 'fluffy' because he is fluffy.</p>
+</html>
+```
 
 ### What is CSS?
 
-...
+Cascading Style Sheets (CSS) is another language, used to format and style HTML documents. For example, you could make the paragraph of text above blue with this CSS code:
 
-### Coding in CSS
-
-...
+```
+p {
+  color: blue;
+}
+```
 
 ### Using Trinket
-
-...
-
-### Working Offline
 
 When completing our HTML & CSS projects, we recommend using [Trinket](https://trinket.io) to build webpages online. Trinket offers several advantages over using a text editor offline:
 
@@ -26,7 +28,9 @@ When completing our HTML & CSS projects, we recommend using [Trinket](https://tr
 + Children can save their code online, allowing them to access their webpages both within their club and at home;
 + Children can share their webpages with others, and can remix webpages shared with them.
 
-However, there may be times when children in your club will need to write HTML & CSS code offline. The following is a short guide to writing, editing and viewing HTML & CSS offline.
+### Working Offline
+
+There may be times when children in your club will need to write HTML & CSS code offline. The following is a short guide to writing, editing and viewing HTML & CSS offline.
 
 ###### Writing
 
