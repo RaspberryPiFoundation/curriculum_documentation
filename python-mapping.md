@@ -1,4 +1,4 @@
-##Scratch Projects Skills Mapping
+##Python Projects Skills Mapping
 This table shows the programming skills covered in each Python project.
 
 ![Python 1](images/mapping/python1map.png)
