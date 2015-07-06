@@ -1,4 +1,4 @@
-[This section is subject to change. We will shortly be updating our projects to make use of the Trinket online Python editor.]
+_[This section is subject to change. We will shortly be updating our projects to make use of the Trinket online Python editor.]_
 
 ### What is Python?
 
