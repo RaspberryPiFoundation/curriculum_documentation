@@ -1,6 +1,6 @@
 ### Our Curriculum
 
-...
+...to be written.
 
 [Curriculum skills mapping](mapintro.md)
 
