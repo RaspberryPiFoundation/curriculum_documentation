@@ -51,7 +51,7 @@ After writing your HTML & CSS, save your files - making sure that the files have
 
 To view a webpage, double-click the `Example.html` file to open it in a browser.
 
-![screenshot](01/offline-view.png)
+![screenshot](images/html/offline-view.png)
 
 If your HTML file opens in a text editor, make sure that it has a `.html` file extension.
 
