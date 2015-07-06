@@ -55,7 +55,7 @@ To view a webpage, double-click the `Example.html` file to open it in a browser.
 
 If your HTML file opens in a text editor, make sure that it has a `.html` file extension.
 
-The easiest way to view changes is to open your files in a browser _and_ a text editor. You can then make changes in the text editor, save the file and then click 'refresh' in the browser to see your changes.
+The easiest way to view changes is to open your files in a browser _and_ a text editor. You can then make changes in the text editor, save your changes and then click 'refresh' in the browser to see your updated webpage.
 
 ![screenshot](images/html/offline-edit.png)
 
