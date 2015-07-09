@@ -4,7 +4,7 @@ _[This section is subject to change. We will shortly be updating our projects to
 
 Python is a widely used, general purpose, text-based programming language. We recommend <a href="https://www.python.org/download/releases/3.2/#download">downloading</a> and using version 3.2 of Python.
 
-### Using Trinket
+### Using Python
 
 Installing Python will also install the IDLE Python editor, which is the simplest way of writing and running Python programs. IDLE consists of 2 windows, the editor (where programs are written) and the ‘Shell’ (where programs are run).
 
