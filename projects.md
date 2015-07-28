@@ -30,6 +30,21 @@ These files contain 'markdown', which is used to generate projects on the Code C
 
 Open the `[project name].md` file in a text editor. You can edit this document by adding in your project instructions. Your project may contain some (or all) of the following:
 
+### File Properties
+
+You should change the title and the language of the project (if necessary).
+
+```
+---
+title: Project Template
+level: Scratch +
+language: en-GB
+stylesheet: scratch
+embeds: "*.png"
+materials: ["Club Leader Resources/*.*","Project Resources/*.*"]
+...
+```
+
 ### Activities
 
 You should break your instructions down into separate activities. Each activity should have an 'activity' heading, which can be added by using the following markdown:
