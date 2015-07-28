@@ -25,7 +25,7 @@ __To contribute a project to our curriculum, you'll need your own copy of the pr
 ![screenshot](/images/projects/md.png)
 
 These files contain 'markdown', which is used to generate projects on the Code Club website. Rename these 2 files with the name of your project.
-
+<a name="step-2"></a>
 ## 2. Write your project.
 
 Open the `[project name].md` file in a text editor. You can edit this document by adding in your project instructions. Your project may contain some (or all) of the following:
