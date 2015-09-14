@@ -76,7 +76,7 @@ You can add text in _italics_ by placing an underscore or a star around the text
 
 You can add text in __bold__ by placing two underscores or stars around the text:
 
-`__italicised text__` or `**italicised text**`
+`__bold text__` or `**bold text**`
 
 ### Code
 
