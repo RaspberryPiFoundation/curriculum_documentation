@@ -158,8 +158,8 @@ For Scratch projects, you can also add an embedded version of the final project,
 
 ```
 <div class="scratch-preview">
-	<iframe allowtransparency="true" width="485" height="402" src="http://scratch.mit.edu/projects/embed/32722912/?autostart=true" frameborder="0"></iframe>
-	<img src="project-final.png">
+  <iframe allowtransparency="true" width="485" height="402" src="http://scratch.mit.edu/projects/embed/32722912/?autostart=true" frameborder="0"></iframe>
+  <img src="project-final.png">
 </div>
 ```
 
