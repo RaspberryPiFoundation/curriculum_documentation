@@ -18,6 +18,8 @@ NOTE: you may only need to carry out some of these steps if no previous translat
 
 ## 2. Translate the project(s)!
 
+(__Note: New projects are labelled as 'New' for 6 weeks after they are uploaded. During this time, these projects may still be subject to small edits. Please wait until these projects are no longer labelled as 'New' before translating.__)
+
 There's a guide to [writing a project](projects.md), which explains how to create each of the elements in the project instructions.
 
 You can also generate [translated Scratch code](http://scratchblocks.codeclub.org.uk/translator/#script=when%20flag%20clicked%0Aforever%0A%20%20move%20(2)%20steps%0Aend&from=en&to=ru) from the English projects.
