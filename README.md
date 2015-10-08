@@ -3,14 +3,6 @@
 + [Curriculum](curriculum.md)
 
 
-+ Resources
-  + [Scratch](scratch.md)
-  + [HTML & CSS](html.md)
-  + [Python](python.md)
-  + TWSU DIY Gamer Kit
-  + Code Kingdoms
-
-
 + [Contributing to our curriculum](contributing.md)
   + [Amending Projects](amending.md)
   + [Writing new projects](projects.md)
