@@ -7,7 +7,7 @@ This is a set of guidelines for writing Code Club projects.
 + Projects should take less than an hour to complete;
 + Projects should require minimal additional software;
 + Project setup and preparation should be minimal;
-+ Avoid 'per project' external resources if possible;
++ Avoid the use of external resources if possible;
 + Projects should be inclusive of gender, race, sexual orientation, socio-economic status and disability.
 
 ## Style
