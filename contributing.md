@@ -49,9 +49,9 @@ git clone git@github.com:YOUR_NAME/REPOSITORY_NAME.git
 
 Note: Replace YOUR_NAME with your GitHub username, 'Documents' with the name of the folder you'd like to save the repository into, and REPOSITORY_NAME with the name of the repository. This will be one of the following:
 
-	+ scratch-curriculum
-	+ webdev-curriculum
-	+ python-curriculum
++ scratch-curriculum
++ webdev-curriculum
++ python-curriculum
 
 ## 2. Make your contribution
 
