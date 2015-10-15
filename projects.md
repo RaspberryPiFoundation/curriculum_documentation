@@ -41,7 +41,7 @@ level: Scratch +
 language: en-GB
 stylesheet: scratch
 embeds: "*.png"
-materials: ["Club Leader Resources/*.*","Project Resources/*.*"]
+materials: ["Club Leader Resources/*","Project Resources/*"]
 ...
 ```
 
@@ -181,7 +181,6 @@ You should change the title and the language of the project (if necessary).
 title: Project Template — Notes for Club Leaders
 language: en-GB
 embeds: "*.png"
-materials: [""]
 ...
 ```
 
