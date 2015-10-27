@@ -5,7 +5,7 @@
 
 + [Contributing to our curriculum](contributing.md)
   + [Amending Projects](amending.md)
-  + [Writing new non-en-GB projects for the codeclubworld.org site](projects.md)
+  + [Writing new projects for the codeclubworld.org site](projects.md)
   + [Translating projects on the codeclubworld.org site](translating.md)
   + [Project Guidelines](project-guidelines.md)
 
