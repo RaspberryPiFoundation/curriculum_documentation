@@ -3,7 +3,7 @@
 
 ## 0. Introduction
 
-This guide explains how to write a new project for our curriculum. If you encounter a problem, remember that you can look at existing projects to see how it's done!
+This guide explains how to write a new project for our [codeclubprojects.org](https://codeclubprojects.org) site. If you encounter a problem, remember that you can look at existing projects to see how it's done!
 
 If you're writing a project and need additional support, you can email projects@codeclub.org.uk.
 
@@ -17,32 +17,34 @@ __To contribute a project to our curriculum, you'll need your own copy of the pr
 
 + Copy and paste this folder, and rename the copied folder with the name of your project.
 
-+ You should see 2 files with `.md` extensions: 
++ You should see 3 files with `.md` extensions: 
 
-	+ `Project Template.md` - the file containing the project instructions;
-	+ `Project Template - notes.md` - the file containing the club leader notes.
+	+ `index.md` - the file containing the project instructions;
+	+ `Project Template - notes.md` - the file containing the club leader notes;
+	+ `materials.md` - the file referencing the materials needed to complete the project.
 
 ![screenshot](/images/projects/md.png)
 
-These files contain 'markdown', which is used to generate projects on the Code Club website. Rename these 2 files with the name of your project.
+These files contain 'markdown', which is used to generate projects on the Code Club website.
+
 <a name="step-2"></a>
 ## 2. Write your project.
 
-Open the `[project name].md` file in a text editor. You can edit this document by adding in your project instructions. Your project may contain some (or all) of the following:
+Open the `index.md` file in a text editor. You can edit this document by adding in your project instructions. Your project may contain some (or all) of the following:
 
 ### File Properties
 
-You should change the title and the language of the project (if necessary).
+You should change the title and description of the project.
 
 ```
 ---
-title: Project Template
-level: Scratch +
-language: en-GB
-stylesheet: scratch
-embeds: "*.png"
-materials: ["Club Leader Resources/*","Project Resources/*"]
-...
+title: ProjectName
+description: Add a description here.
+layout: project
+notes: "notes.md"
+new: true
+project-type: community
+---
 ```
 
 ### Activities
@@ -178,10 +180,8 @@ You should change the title and the language of the project (if necessary).
 
 ```
 ---
-title: Project Template — Notes for Club Leaders
-language: en-GB
-embeds: "*.png"
-...
+title: ProjectName — Volunteer Notes
+---
 ```
 
 ### Introduction
@@ -204,23 +204,6 @@ List the names of the challenges in your project, along with a brief description
 
 ### Frequently Asked Questions
 You can also add answers to common questions here. This will help club leaders when undertaking your new project with children. This section can be removed if it is not necessary.
-
-## 4. Add your project to the manifest.
-
-+ You should be able to see a file with a `.manifest` extension in the same folder (or the folder above) the folder containing your new project.
-
-+ Add your project to the 'additional projects' manifest. You can do this by copying and pasting an existing project entry, modifying the parameters. Here's an example:
-
-```
-        {
-            "number":   3,
-            "beta": true,
-            "filename": "Project Template/Project Template.md",
-            "note":     "Project Template/Project Template - notes.md"
-        }
-```
-
-Make aure that there is a comma between each project entry (after the `}`) but not after the final project!
 
 ## 5. You're done!
 
