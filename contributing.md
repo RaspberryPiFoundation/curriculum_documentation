@@ -57,8 +57,11 @@ Note: Replace YOUR_NAME with your GitHub username, 'Documents' with the name of 
 
 You can now:
 + [Make amendments and improvements to projects](amending.md);
-+ [Write new projects](projects.md);
-+ [Translate our projects into other languages](translating.md).
++ For the projects.codeclubworld.org site:
+  + [Write new projects](ccw/projects.md);
+  + [Translate our projects into other languages](ccw/translating.md).
++ For the codeclubprojects site:
+  + [Write new projects](ccp/projects.md).
 
 When contributing to our curriculum, please make sure that the project conforms to our [project guidelines](project-guidelines.md).
 
