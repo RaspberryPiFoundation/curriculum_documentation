@@ -205,6 +205,23 @@ List the names of the challenges in your project, along with a brief description
 ### Frequently Asked Questions
 You can also add answers to common questions here. This will help club leaders when undertaking your new project with children. This section can be removed if it is not necessary.
 
+## 4. Project Materials
+
+Add the project materials to the `project-resources` and/or `volunteer-resources` files. Files neccessary to complete the project should be added to the `project-resources` folder, and completed sample projects added to the `volunteer-resources` folder.
+
+filenames of both project and volunteer resources should then be added to the `materials.md` file:
+
+```
+---
+title: ProjectName - Materials
+layout: materials
+volunteer-resources: 
+project-resources: 
+---
+```
+
+The 
+
 ## 5. You're done!
 
 Go back to the main notes on [contributing](../contributing.md) to see how to upload your new project.
