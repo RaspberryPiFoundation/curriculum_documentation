@@ -18,6 +18,4 @@ Each module has opportunities to develop the following skills:
 + Reflecting and improving.
 
 ####Programming skills mapping:
-+ [Scratch](scratch-mapping.md)
-+ [HTML & CSS](html-mapping.md)
-+ [Python](python-mapping.md)
++ [This can be found on our projects website](https://www.codeclubprojects.org/en-GB/curriculum/)
