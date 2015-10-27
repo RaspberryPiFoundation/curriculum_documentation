@@ -7,7 +7,7 @@ This guide explains how to translate our projects into other languages.
 
 If you're translating a project and need additional support, you can email projects@codeclub.org.uk.
 
-__To contribute a project to our curriculum, you'll need your own copy of the projects. There are instructions on how to do this in the main [contributing](contributing.md) notes.__
+__To contribute a project to our curriculum, you'll need your own copy of the projects. There are instructions on how to do this in the main [contributing](../contributing.md) notes.__
 
 NOTE: you may only need to carry out some of these steps if no previous translations have been made for your language.
 
@@ -73,4 +73,4 @@ You can also provide translated text for various website links and project instr
 
 ## 5. You're done!
 
-Go back to the main notes on [contributing](contributing.md) to see how to upload your new project(s).
+Go back to the main notes on [contributing](../contributing.md) to see how to upload your new project(s).
