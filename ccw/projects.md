@@ -7,7 +7,7 @@ This guide explains how to write a new project for our curriculum. If you encoun
 
 If you're writing a project and need additional support, you can email projects@codeclub.org.uk.
 
-__To contribute a project to our curriculum, you'll need your own copy of the projects. There are instructions on how to do this in the main [../contributing](contributing.md) notes.__
+__To contribute a project to our curriculum, you'll need your own copy of the projects. There are instructions on how to do this in the main [contributing](../contributing.md) notes.__
 
 ## 1. Using the project template.
 
@@ -224,4 +224,4 @@ Make aure that there is a comma between each project entry (after the `}`) but n
 
 ## 5. You're done!
 
-Go back to the main notes on [../contributing](contributing.md) to see how to upload your new project.
+Go back to the main notes on [contributing](../contributing.md) to see how to upload your new project.
