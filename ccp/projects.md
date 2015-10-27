@@ -220,8 +220,6 @@ project-resources:
 ---
 ```
 
-The 
-
 ## 5. You're done!
 
 Go back to the main notes on [contributing](../contributing.md) to see how to upload your new project.
