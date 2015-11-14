@@ -30,7 +30,7 @@ Click the link for the repository you wish to contribute to. We currently have [
 
 ![screenshot](images/contributing/fork-success.png)
 
-+ __(For new projects or translations only).__ Clone the repository to your computer. This will create a copy of your new repository on your local computer.
++ __(For new projects, translations or changing of pictures/screenshots only).__ Clone the repository to your computer. This will create a copy of your new repository on your local computer.
 
 If you're using the GitHub tool for Mac or Windows, click 'clone' to download the repository to your computer.
 
