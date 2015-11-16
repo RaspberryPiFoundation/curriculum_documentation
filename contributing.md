@@ -30,7 +30,11 @@ Click the link for the repository you wish to contribute to. We currently have [
 
 ![screenshot](images/contributing/fork-success.png)
 
-+ __(For new projects, translations or changing of pictures/screenshots only).__ Clone the repository to your computer. This will create a copy of your new repository on your local computer.
+(If you are only making small rtext edits to projects, you can jump to step 3.)
+
+## 2. Downloading the projects
+
++ Clone the repository to your computer. This will create a copy of your new repository on your local computer. __This step is not neccessary for small text edits to the projects.__
 
 If you're using the GitHub tool for Mac or Windows, click 'clone' to download the repository to your computer.
 
@@ -53,23 +57,23 @@ Note: Replace YOUR_NAME with your GitHub username, 'Documents' with the name of 
 + webdev-curriculum
 + python-curriculum
 
-## 2. Make your contribution
+## 3. Make your contribution
 
 You can now:
 + [Make amendments and improvements to projects](amending.md);
 + For the projects.codeclubworld.org site:
   + [Write new projects](ccw/projects.md);
-  + [Translate our projects into other languages](ccw/translating.md).
+  + [Translate our projects into other languages, including screenshots](ccw/translating.md).
 + For the codeclubprojects site:
   + [Write new projects](ccp/projects.md).
 
 When contributing to our curriculum, please make sure that the project conforms to our [project guidelines](project-guidelines.md).
 
-## 3. (Optional) View your contribution
+## 4. (Optional) View your contribution
 
 To view your contribution, you'll need to use the [lesson_format](https://github.com/CodeClub/lesson_format) tool to build a local copy of our projects. Instructions on how to install the lesson formatter are [here](https://github.com/CodeClub/lesson_format/blob/master/README.md).
 
-## 4. Save your contribution
+## 5. Save your contribution
 
 For small changes made directly on the GitHub website, you can simply scroll down to the bottom of the file you've amended, and click 'Commit Change'.
 
@@ -105,7 +109,7 @@ git commit -m 'Your message here'
 git push
 ```
 
-## 5. Merge your contribution with our curriculum
+## 6. Merge your contribution with our curriculum
 
 Go to your copy of the respository on the GitHub website, and click the 'Pull Request button.
 
