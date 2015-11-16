@@ -18,15 +18,15 @@ Alternatively, you can click the following links to raise an issue with our [Scr
 
 ## 1. Create a copy of the projects
 
-+ Each curriculum has its own repository, which is a central place for storing all of the projects. The files in the repositories are used to generate the websites for the [UK](http://projects.codeclub.org.uk) and [world](http://projects.codeclubworld.org) project sites.
+Each curriculum has its own repository, which is a central place for storing all of the projects. The files in the repositories are used to generate the websites for the [UK](http://projects.codeclub.org.uk) and [world](http://projects.codeclubworld.org) project sites.
 
 Click the link for the repository you wish to contribute to. We currently have [Scratch](https://github.com/CodeClub/scratch-curriculum), [HTML & CSS](https://github.com/CodeClub/webdev-curriculum) and [Python](https://github.com/CodeClub/python-curriculum) project repositories.
 
-+ Click the 'Fork' button to create your own copy of the projects repository. This will enable you to make changes to the projects.
+Click the 'Fork' button to create your own copy of the projects repository. This will enable you to make changes to the projects.
 
 ![screenshot](images/contributing/fork.png)
 
-+ If the copied repository shows your own username (and the text 'forked from CodeClub') then you've successfully created a fork (copy) of the curriculum.
+If the copied repository shows your own username (and the text 'forked from CodeClub') then you've successfully created a fork (copy) of the curriculum.
 
 ![screenshot](images/contributing/fork-success.png)
 
@@ -34,7 +34,7 @@ Click the link for the repository you wish to contribute to. We currently have [
 
 ## 2. Downloading the projects
 
-+ Clone the repository to your computer. This will create a copy of your new repository on your local computer. __This step is not neccessary for small text edits to the projects.__
+Clone the repository to your computer. This will create a copy of your new repository on your local computer. __This step is not neccessary for small text edits to the projects.__
 
 If you're using the GitHub tool for Mac or Windows, click 'clone' to download the repository to your computer.
 
@@ -81,7 +81,7 @@ For small changes made directly on the GitHub website, you can simply scroll dow
 
 For new projects and translations, the contributions you've written are saved to your local computer, but you'll need to upload them to your GitHub account. Here's how you upload your contribution:
 
-+ If you're using the GitHub for Mac or Windows application, click the 'toggle' button, so the button on the right says 'Commit and Sync'. Then click this button to upload your contribution. You'll need to add a summary and a description of your contribution.
+If you're using the GitHub for Mac or Windows application, click the 'toggle' button, so the button on the right says 'Commit and Sync'. Then click this button to upload your contribution. You'll need to add a summary and a description of your contribution.
 
 ![screenshot](images/contributing/sync.png)
 
