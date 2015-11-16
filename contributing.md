@@ -30,7 +30,7 @@ Click the link for the repository you wish to contribute to. We currently have [
 
 ![screenshot](images/contributing/fork-success.png)
 
-(If you are only making small rtext edits to projects, you can jump to step 3.)
+(If you are only making small text edits to projects, you can jump to step 3.)
 
 ## 2. Downloading the projects
 
