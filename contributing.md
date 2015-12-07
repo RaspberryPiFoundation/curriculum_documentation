@@ -34,7 +34,9 @@ If the copied repository shows your own username (and the text 'forked from Code
 
 ## 2. Downloading the projects
 
-Clone the repository to your computer. This will create a copy of your new repository on your local computer. __This step is not neccessary for small text edits to the projects.__
+__This step is not neccessary for small text edits to the projects.__
+
+Clone the repository to your computer. This will create a copy of your new repository on your local computer.
 
 If you're using the GitHub tool for Mac or Windows, click 'clone' to download the repository to your computer.
 
