@@ -34,7 +34,7 @@ You can also generate [translated Scratch code](http://scratchblocks.codeclub.or
 
 ```
         {
-            "filename": "01 Félix y Herbert/félix_y_herbert.md",
+            "filename": "Rock Band/Rock Band.md",
             "number": 1
         }
 ```
