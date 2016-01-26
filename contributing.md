@@ -59,6 +59,14 @@ Note: Replace YOUR_NAME with your GitHub username, 'Documents' with the name of 
 + webdev-curriculum
 + python-curriculum
 
+Make sure that you have configured your fork to sync with the original. The instructions to do this can be found [on the GitHub help website](https://help.github.com/articles/configuring-a-remote-for-a-fork).
+
+```
+git remote add upstream https://github.com/CodeClub/scratch-curriculum.git
+```
+
+In the command above you will need to replace the word `scratch` with `webdev` or `python` if you are forking a different repository.
+
 ## 3. Make your contribution
 
 You can now:
@@ -82,6 +90,13 @@ For small changes made directly on the GitHub website, you can simply scroll dow
 ![screenshot](images/contributing/commit.png)
 
 For new projects and translations, the contributions you've written are saved to your local computer, but you'll need to upload them to your GitHub account. Here's how you upload your contribution:
+
+Before saving your contribution to your fork, ensure that your fork is up to date with Code Club's original repository. Instructions on how to do this are [on the GitHub help website](https://help.github.com/articles/syncing-a-fork).
+
+```
+git fetch upstream
+git merge upstream/master
+```
 
 If you're using the GitHub for Mac or Windows application, click the 'toggle' button, so the button on the right says 'Commit and Sync'. Then click this button to upload your contribution. You'll need to add a summary and a description of your contribution.
 
