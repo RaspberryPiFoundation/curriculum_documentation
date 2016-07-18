@@ -1,6 +1,6 @@
 ### Our Curriculum
 
-...to be written.
+The Code Club projects are step by step guides for children to follow to create animations, games, websites and much more. Children will build up their programming skills as they move through the projects, and challenges provide opportunities to demonstrate and apply what’s been learnt.
 
 [Curriculum skills mapping](mapintro.md)
 
