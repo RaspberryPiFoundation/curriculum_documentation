@@ -69,7 +69,11 @@ In the command above you will need to replace the word `scratch` with `webdev` o
 
 ## 3. Make your contribution
 
-You should switch to the correct branch. The content for the [projects.codeclubworld.org](http://projects.codeclubworld.org/) can be found in the `master` branch and the content for the [codeclubprojects.org/](https://codeclubprojects.org/) site can be found in the `new-layout` branch.
+**You should switch to the correct branch. The content for the [projects.codeclubworld.org](http://projects.codeclubworld.org/) can be found in the `master` branch and the content for the [codeclubprojects.org/](https://codeclubprojects.org/) site can be found in the `new-layout` branch.**
+
+```
+git checkout new-layout
+```
 
 You can now:
 + [Make amendments and improvements to projects](amending.md);
