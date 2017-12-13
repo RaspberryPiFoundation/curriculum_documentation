@@ -12,7 +12,7 @@ We recommend using [GitHub](https://github.com/) to contribute. GitHub is a vers
 
 If you don't have a GitHub account, you can [sign up](https://github.com/join). You can also install the GitHub application, which is available for [windows](https://windows.github.com/) or [mac](https://mac.github.com/).
 
-You don’t have to use GitHub to contribute. If you prefer, you can also email us with your contribution at projects@codeclub.org.uk.
+You don’t have to use GitHub to contribute. If you prefer, you can also email us with your contribution at projects@raspberrypi.org.
 
 Alternatively, you can click the following links to raise an issue with our [Scratch](https://github.com/CodeClub/scratch-curriculum/issues), [HTML & CSS](https://github.com/CodeClub/webdev-curriculum/issues) or [Python](https://github.com/CodeClub/python-curriculum/issues) curriculum. If you have any cool ideas for improving our curriculum (or our website), you can [submit your idea to us](https://github.com/CodeClub/ideas/issues).
 
