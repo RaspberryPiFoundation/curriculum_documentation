@@ -5,7 +5,7 @@
 
 This guide explains how to write a new project for our curriculum. If you encounter a problem, remember that you can look at existing projects to see how it's done!
 
-If you're writing a project and need additional support, you can email projects@codeclub.org.uk.
+If you're writing a project and need additional support, you can email projects@raspberrypi.org.
 
 __To contribute a project to our curriculum, you'll need your own copy of the projects. There are instructions on how to do this in the main [contributing](../contributing.md) notes.__
 
