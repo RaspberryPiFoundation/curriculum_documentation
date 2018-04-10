@@ -6,7 +6,8 @@
 This guide explains how to contribute to our curriculum. You can:
 + Suggest amendments and improvements to our projects;
 + Write new projects;
-+ Translate our projects into other languages.
+
+If you'd like to help us translate our projects, please fill in [this form](https://docs.google.com/a/raspberrypi.org/forms/d/e/1FAIpQLSdoxUvmGwbpx3zcCxXwJEqaBoAQHsTu-v5R4uOTSxv9-OzUEw/viewform). We will get in touch with you within a week to explain the process and get you involved.
 
 We recommend using [GitHub](https://github.com/) to contribute. GitHub is a version-control system that allows hassle-free contributions, and allows us to easily track and manage those contributions. These notes outline the process of contributing via GitHub.
 
@@ -78,8 +79,7 @@ git checkout new-layout
 You can now:
 + [Make amendments and improvements to projects](amending.md);
 + For the projects.codeclubworld.org site:
-  + [Write new projects](ccw/projects.md);
-  + [Translate our projects into other languages, including screenshots](ccw/translating.md).
+  + [Write new projects](ccw/projects.md).
 + For the codeclubprojects site:
   + [Write new projects](ccp/projects.md).
 
@@ -95,7 +95,7 @@ For small changes made directly on the GitHub website, you can simply scroll dow
 
 ![screenshot](images/contributing/commit.png)
 
-For new projects and translations, the contributions you've written are saved to your local computer, but you'll need to upload them to your GitHub account. Here's how you upload your contribution:
+For new projects, the contributions you've written are saved to your local computer, but you'll need to upload them to your GitHub account. Here's how you upload your contribution:
 
 Before saving your contribution to your fork, ensure that your fork is up to date with Code Club's original repository. Instructions on how to do this are [on the GitHub help website](https://help.github.com/articles/syncing-a-fork).
 
@@ -141,7 +141,5 @@ Go to your copy of the respository on the GitHub website, and click the 'Pull Re
 On the next screen, you can review your changes, and click the 'Create pull request' button if you're happy, which will alert us to your contribution.
 
 ![screenshot](images/contributing/pull-request2.png)
-
-If you've translated a project (or projects), give another native speaker a link to your pull request, which will be something like http://github.com/codeclub/scratch-curriculum/pull/3. If they’re happy, they should leave a comment on the pull request with a :+1: or similar message.
 
 When we merge the pull request, your contribution will become part of the main curriculum repository, available for everyone to use and benefit from!
