@@ -5,7 +5,7 @@
 
 This guide explains how to make small amendments to a project. There are more notes for making bigger contributions, such as [adding new projects](projects.md) or [translating existing projects](translating.md)
 
-If you're amending a project and need additional support, you can email projects@codeclub.org.uk.
+If you're amending a project and need additional support, you can email projects@raspberrypi.org.
 
 __To contribute a project to our curriculum, you'll need your own copy of the projects. There are instructions on how to do this in the main [contributing](contributing.md) notes.__
 
