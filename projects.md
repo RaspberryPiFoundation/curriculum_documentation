@@ -220,7 +220,7 @@ You can also add answers to common questions here. This will help club leaders w
         }
 ```
 
-Make aure that there is a comma between each project entry (after the `}`) but not after the final project!
+Make sure that there is a comma between each project entry (after the `}`) but not after the final project!
 
 ## 5. You're done!
 
