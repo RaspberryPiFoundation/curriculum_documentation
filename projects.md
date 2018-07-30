@@ -150,7 +150,7 @@ The code above produces the following image:
 
 ![screenshot](/images/projects/scratch-output.png)
 
-You can [test](http://scratchblocks.codeclub.org.uk) your Scratch code, and there is a [guide](http://wiki.scratch.mit.edu/wiki/Block_Plugin/Syntax) to adding Scratch blocks to your project notes. You can even automatically generate Scratch code [directly from your online Scratch project](http://scratchblocks.codeclub.org.uk/generator/).
+You can [test](https://scratchblocks.github.io) your Scratch code, and there is a [guide](http://wiki.scratch.mit.edu/wiki/Block_Plugin/Syntax) to adding Scratch blocks to your project notes. You can even automatically generate Scratch code [directly from your online Scratch project](https://scratchblocks.github.io/generator/).
 
 ### Embedded Scratch Projects
 
